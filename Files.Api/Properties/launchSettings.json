@@ -6,7 +6,7 @@
       "launchUrl": "swagger",
         "environmentVariables": {
             "ASPNETCORE_ENVIRONMENT": "Development",
-            "BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=intoku;AccountKey=7+ooBKSLeZk4hwhwL/ctgdlzHyQ2jtMCf8JNvPPDO6jsJMDtxUV7GA5KhjUNWB9xxe19CByyX4Xx+AStH5aOLQ==;EndpointSuffix=core.windows.net",
+            "BlobConnectionString": "",
             "BlobContainerName": "intoku"
         },
       "dotnetRunMessages": true,
