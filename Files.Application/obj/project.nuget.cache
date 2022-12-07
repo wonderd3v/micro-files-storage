@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7nGWLIhhcr7dnbKruSQuZ1eH8ZY7tCYzRrYjhjSZ2BCIhFq7qBum1+TwmF0vARxP0P3swJeBP5AjdDztt11xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hmexs\\source\\repos\\Files\\Files.Application\\Files.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hmexs\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Hmexs\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hmexs\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Hmexs\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\Hmexs\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\Hmexs\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hmexs\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

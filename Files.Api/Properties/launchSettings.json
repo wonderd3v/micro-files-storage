@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "Files.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development",
+            "BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=intoku;AccountKey=7+ooBKSLeZk4hwhwL/ctgdlzHyQ2jtMCf8JNvPPDO6jsJMDtxUV7GA5KhjUNWB9xxe19CByyX4Xx+AStH5aOLQ==;EndpointSuffix=core.windows.net",
+            "BlobContainerName": "intoku"
+        },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7002;http://localhost:5002"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:1658",
+      "sslPort": 44300
+    }
+  }
+}

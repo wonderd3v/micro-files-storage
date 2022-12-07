@@ -1,0 +1,15 @@
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.AssemblyInfo.cs
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\bin\Debug\net7.0\Files.Infrastructure.deps.json
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\bin\Debug\net7.0\Files.Infrastructure.dll
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\bin\Debug\net7.0\Files.Infrastructure.pdb
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\bin\Debug\net7.0\Files.Application.dll
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\bin\Debug\net7.0\Files.Application.pdb
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.csproj.CopyComplete
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.dll
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\refint\Files.Infrastructure.dll
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\Files.Infrastructure.pdb
+C:\Users\Hmexs\source\repos\Files\Files.Infrastructure\obj\Debug\net7.0\ref\Files.Infrastructure.dll
